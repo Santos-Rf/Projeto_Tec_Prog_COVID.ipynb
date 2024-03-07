@@ -13,4 +13,4 @@ Entregáveis
 
 O projeto completo (notebook, código-fonte, link para fontes, bases e demais artefatos).
 
-Grupo: Juliana de Lima, Rafael Assis, Paulo Paixão, Vanderlandio da Rocha, Helouise Dayane e Patricia Adania.
+Grupo: Juliana de Lima, Leonardo Luis, Rafael Assis, Paulo Paixão, Vanderlandio da Rocha, Helouise Dayane e Patricia Adania.
